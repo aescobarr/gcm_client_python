@@ -1,0 +1,14 @@
+# coding=utf-8
+params = dict(
+    API_KEY = "XXX",
+    REG_ID = "XXX",
+    id = "XXX",
+    report_id = "XXX",
+    user_id = "XXX",
+    expert_id = Integer,
+    date_comment = "2016-07-09 12:09:26.44336+02",
+    expert_comment = "XXX",
+    expert_html = "XXX",
+    photo_url = "XXX",
+    acknowledged = Boolean,
+)
